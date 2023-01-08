@@ -8,6 +8,7 @@
 解决方法很简单，已在网店系统上线使用，有需要的可以联系（V信:lifesupport）<br/>
 
 完美解决微信浏览器内长按识别个人收款码<br/>
+
 -![1.jpg](readme/01.jpg)
 -![2.jpg](readme/02.jpg)
 -![3.jpg](readme/3.jpg)
